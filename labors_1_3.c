@@ -23,6 +23,7 @@ void main()
     a0 = pow(-1,k)*pow(x,2*k)/(1.);
     S0 = a0;
     printf("a0 = %.2lf\t S0 = %.2lf\n", a0, S0);
+    fflush(stdin);
 
 
     a499 = a0;
