@@ -1,7 +1,0 @@
-#include<stdio.h>
-#include<math.h>
-void main(){
-    double x=2.05,y,a,S;
-    int k=0;
-    y=sin(x);
-    printf(”y=sin(%.2f)=%.2f\n”,x,y);
